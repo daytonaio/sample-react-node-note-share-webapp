@@ -14,7 +14,6 @@ It is a note sharing webapp, where user's can share notes and see other's notes.
    ```
    ![image](https://github.com/user-attachments/assets/71032de5-f688-4fa1-9b4e-ae566def309f)
 
-
 4. **Start the Application**:  
    *Start the backend*
    -Before starting the server, make .env (use .env.example in backend folder) file in 'backend' folder.
