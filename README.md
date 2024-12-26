@@ -1,7 +1,7 @@
 # Sample <JS/(VITE)> - MERN
 
-Sample description
-It is a note sharing webapp, where user's can share notes and see other's notes. Role management and 
+
+It is a note taking webapp, where user's can share notes.
 
 ## 🚀 Getting Started  
 
@@ -46,10 +46,6 @@ It is a note sharing webapp, where user's can share notes and see other's notes.
 ## License
 This project is licensed under the Apache License. See the [LICENSE](LICENSE) file for details.
 
-## ✨ Features  
-
-- to showcase authorization using opal.
-- to use custom data fetcher with mysql for real world applications.
 
 ## Features
 - Full stack note taking web app.
